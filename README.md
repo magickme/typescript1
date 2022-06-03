@@ -1,2 +1,3 @@
-# typescript1
-TypeScript learning, first run
+# typescript 
+
+Basic TypeScript learning project
